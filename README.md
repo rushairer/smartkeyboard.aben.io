@@ -1,4 +1,3 @@
-# SmartKeyboard
 SmartKeyboard is a lightweight, intelligent input method manager designed specifically for macOS users who frequently switch between different languages. Tired of constantly changing your input method when moving between your code editor, web browser, and chat applications? SmartKeyboard solves this frustrating problem automatically.
 
 ### Key Features:
