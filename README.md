@@ -4,9 +4,13 @@ SmartKeyboard is a lightweight, intelligent input method manager designed specif
 ### Key Features:
 
 • **Automatic App-Switching**: SmartKeyboard detects which application is currently active and automatically switches to your preferred input method for that specific app.
+
 • **Menu Bar Quick Access**: Easily configure default input methods for any active window through the convenient menu bar icon.
+
 • **Smart Analytics**: Analyzes your input method switching habits and intelligently anticipates when to switch, saving you time and effort.
+
 • **Ad-Free Experience**: Clean, lightweight design with no advertisements or unnecessary bloat.
+
 • **Privacy-Focused**: All data processing happens locally on your Mac - your typing habits never leave your device.
 
 ### Perfect For:
